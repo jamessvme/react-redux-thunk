@@ -1,3 +1,5 @@
-export type MATCH = {
-  params: number
+export type TODO = {
+  id: string,
+  title: string,
+  content: string
 }
